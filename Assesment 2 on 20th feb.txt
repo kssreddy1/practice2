@@ -1,0 +1,21 @@
+1. Linux commands
+2. How to switch Branch to Branch
+3. All Git Commands on task
+4. How to change maven home directory
+5. AWS each Topic One Task
+	1. How to Connect Server to Server with password and withoutpasswd
+	2. Create VPC and Create Subnets and laucnh two instances private and public and connect to Private Instace using Public Instance.
+	3. Load Balancer
+	4. IAM Policies Custom, Managed and Boundary point.
+	5.  
+6. 
+
+HTTPS
+HTTP
+SonarQube
+Jenkins
+SSH
+Nexus
+TomCat
+FTP
+TCP
